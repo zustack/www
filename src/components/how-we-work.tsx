@@ -78,7 +78,7 @@ export default function HowWeWork() {
             <div className="w-full mt-8 lg:mt-0">
               <img
                 className="rounded-md w-full h-auto object-cover"
-                src="https://zustack-software.vercel.app/meet.jpg"
+                src="/meet.jpg"
                 alt="Meeting illustration"
               />
             </div>
